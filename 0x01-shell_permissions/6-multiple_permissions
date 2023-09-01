@@ -1,2 +1,2 @@
-#!/bun/bash
-chmod +114 hello 
+#!/bin/bash
+chmod ug+x,o+r hello
