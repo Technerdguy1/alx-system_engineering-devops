@@ -1,4 +1,13 @@
 # 0x00-shell_basics
+This projects were done during the **Full stack software engineering study at Alx Africa and Holberton school**
+The aims was to learn about:-
+- How to navigate in an Unix system.
+- How to list files and directories.
+- How to display the content of a file.
+- How to create a file or directory.
+- How to remove a file or directory
+- How to move or copy a file or directory.
+
 This readme gives a brief summary of what each script does
   -----------------------
 
