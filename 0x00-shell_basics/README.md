@@ -1,8 +1,10 @@
-#This readme gives a brief summary of what each script does
+# 0x00-shell_basics
+This readme gives a brief summary of what each script does
+  -----------------------
 
-0. A script that prints the absolute path name of the current working directory.
+ - A script that prints the absolute path name of the current working directory.
 
-A script that Display the contents list of your current directory.
+ - A script that Display the contents list of your current directory.
 
 A script that changes the working directory to the user’s home directory.
 
