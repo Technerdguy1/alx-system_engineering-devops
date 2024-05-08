@@ -1,8 +1,8 @@
-##0x07-networking_basics#0
+## 0x07-networking_basics#0
 This projects or tasks were done during **Full Stack Software Engineering Course @ ALX Africa and Holberton School.**
 It Objective is to learned about the following in Networking basics:-
 
-###OSI Model
+### OSI Model
 - What is OSI Model?
 - How many layers does it have?
 - How it is organized
@@ -47,7 +47,7 @@ What is the most important position in a software company?
 1. Project manager
 2. Backend developer
 3. System administrator
-| ----- |
+| --- | --- |
 sylvain@ubuntu$ cat foo_answer_file
 3
 sylvain@ubuntu$ 
