@@ -4,3 +4,11 @@ This projects or tasks were done during **Full Stack Software Engineering Course
 - What is 0.0.0.0
 - What is `/etc/hosts`
 - How to display your machine’s active network interfaces.
+
+## Requirements
+### General
+- Allowed editors: `vi, vim, emacs`
+- All your files will be interpreted on `Ubuntu 20.04 LTS`
+- All your files should end with a new line
+-
+
